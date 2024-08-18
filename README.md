@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 <br/>
 
 
-- 🔭 I’m currently pursuing B.Tech From Lovely Professional University.
-- 🌱 I’m currently learning more about Data Science.
-- 💬 Ask me about Data Science or any tech related stuff.
+- 🌱 I’m currently working in the domain of Data Engineering.
+- 💬 Ask me about Data Engineering or any tech related stuff.
 - 📫 How to reach me: [LinkedIn - @abhisheksoni5975(https://www.linkedin.com/in/abhisheksoni5975/) . 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 6 hours listening songs everyday.
